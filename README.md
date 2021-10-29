@@ -3,3 +3,4 @@
 ## Домашние задания по [семинарам 3-4](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki)
 ## Отчет по [лабораторной работе №1](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki/Лабораторная-работа-№1)
 ## Отчет по [лабораторной работе №2](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki/Лабораторная-работа-№2)
+## Отчет по [лабораторной работе №3](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki/Лабораторная-работа-№3)
