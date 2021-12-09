@@ -4,3 +4,4 @@
 ## Отчет по [лабораторной работе №1](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki/Лабораторная-работа-№1)
 ## Отчет по [лабораторной работе №2](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki/Лабораторная-работа-№2)
 ## Отчет по [лабораторной работе №3](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki/Лабораторная-работа-№3)
+## Отчет по [Лабораторным работам №4-6](https://github.com/TatyanaSor/TatyanaSor.github.io/wiki/Лабораторные-работы-№4,5,6)
